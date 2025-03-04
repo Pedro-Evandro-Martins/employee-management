@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementSystem.Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementSystem.BaseLibrary", "EmployeeManagementSystem.BaseLibrary\EmployeeManagementSystem.BaseLibrary.csproj", "{E571AFA0-503B-479B-B184-01B3E7D68741}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementSystem.ServerLibrary", "EmployeeManagementSystem.ServerLibrary\EmployeeManagementSystem.ServerLibrary.csproj", "{E63AFE77-8A14-4AF9-A0C0-DD0263D4100E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementSystem.ClientLibrary", "EmployeeManagementSystem.ClientLibrary\EmployeeManagementSystem.ClientLibrary.csproj", "{48B5CD8A-FFF8-46C8-8BAE-F884782ACBE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{E571AFA0-503B-479B-B184-01B3E7D68741}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E571AFA0-503B-479B-B184-01B3E7D68741}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E571AFA0-503B-479B-B184-01B3E7D68741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E63AFE77-8A14-4AF9-A0C0-DD0263D4100E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63AFE77-8A14-4AF9-A0C0-DD0263D4100E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63AFE77-8A14-4AF9-A0C0-DD0263D4100E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63AFE77-8A14-4AF9-A0C0-DD0263D4100E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48B5CD8A-FFF8-46C8-8BAE-F884782ACBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B5CD8A-FFF8-46C8-8BAE-F884782ACBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B5CD8A-FFF8-46C8-8BAE-F884782ACBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B5CD8A-FFF8-46C8-8BAE-F884782ACBE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

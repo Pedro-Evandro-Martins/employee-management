@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\EmployeeManagementSystem.BaseLibrary\EmployeeManagementSystem.BaseLibrary.csproj" />
+    <ProjectReference Include="..\EmployeeManagementSystem.ClientLibrary\EmployeeManagementSystem.ClientLibrary.csproj" />
   </ItemGroup>
 
 </Project>
